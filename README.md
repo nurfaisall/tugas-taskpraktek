@@ -1,7 +1,10 @@
 # end point
-localhost:8080/api
 method POST
-body json -> example {"n" : 2}
+localhost:8080/factorial?n=
+
+method GET
+localhost:8080/employee?id=
+
 
 # code-with-quarkus Project
 
