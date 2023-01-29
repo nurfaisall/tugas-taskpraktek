@@ -1,3 +1,8 @@
+# end point
+localhost:8080/api
+method POST
+body json -> example {"n" : 2}
+
 # code-with-quarkus Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
