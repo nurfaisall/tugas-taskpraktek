@@ -1,7 +1,7 @@
 package org.acme.controller;
 
-import io.vertx.core.json.JsonObject;
 import org.acme.model.Employee;
+import org.acme.model.EmployeeScore;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
